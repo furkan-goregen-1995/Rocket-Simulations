@@ -1,0 +1,7 @@
+sceneSetups:
+- path: "Assets/Men\xFC.unity"
+  isLoaded: 1
+  isActive: 1
+- path: Assets/SampleScene.unity
+  isLoaded: 0
+  isActive: 0

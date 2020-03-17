@@ -1,0 +1,6 @@
+Motor Tipi:15
+Roket Hızı:100
+Roket Uzunluğu1500
+Roket Çapı:254
+İtme Gücü:2554
+Kütle Akış Hızı:500
